@@ -1,3 +1,6 @@
 [submodule "kdeconnect-kde"]
 	path = kdeconnect-kde
 	url = git@github.com:KDE/kdeconnect-kde.git
+[submodule "fluffy-waddle"]
+	path = fluffy-waddle
+	url = git@github.com:Geenuine8/fluffy-waddle.git
